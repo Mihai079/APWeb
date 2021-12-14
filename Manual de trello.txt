@@ -1,0 +1,29 @@
+Manual de Trello
+
+1. Entrada y configuración de los usuarios i grupos
+
+Lo primero que tienes que hacer al iniciarte con Trello es crear un tablero. 
+En Trello, cada tablero puede ser un proyecto o una parte de un proyecto.
+Dentro de los tableros de Trello puedes añadir columnas y dentro de cada columna puedes añadir tarjetas. 
+Cada una de esas tarjetas puede ser una tarea individual o de grupo, y contener todo tipo de información, desde archivos adjuntos hasta comentarios y etiquetas.
+Si usas Trello como herramienta de trabajo en equipo puedes asignar tarjetas a diferentes usuarios, esto hará que reciban notificaciones y alertas. 
+También les puedes asignar fechas a las tarjetas que te irán notificando cuando se acerque el vencimiento.
+Dentro de las tarjetas puedes añadir archivos adjuntos, incluso puedes integrar otras apps como Google Drive por ejemplo, para importar archivos desde ahí simplemente pegando el enlace.
+Todos los miembros del equipo con acceso pueden dejar comentarios en las tarjetas, haciendo mención con @usuario, incluso si no están asignados a la tarjeta. 
+En una tarjeta puedes estar asignado, o puedes ser seguidor para solo recibir notificaciones sobre actividad en esa tarjeta.    
+
+2. Inserción de tareas
+
+Para crear una tarea hay que añadir una tarjeta. 
+Las tareas se dividen en Listas, que son las columnas en los que vas poniendo las diferentes tarjetas. 
+Cuando creas una tarjeta, puedes entrar en ella para añadirle elementos, como checklists, etiquetas, enlaces, o archivos adjuntos.
+
+3. Asignación de tareas
+
+La forma más sencilla de asignar tarjetas a los miembros del equipo es agregar usuarios a sus respectivas tarjetas. 
+Si cada miembro del equipo tiene sus propias tarjetas específicas para las tareas individuales que deben completar, puede realizar un seguimiento de su progreso fácilmente.
+Por lo tanto, la forma más rápida de asignar tareas y tarjetas es agregar usuarios a tarjetas específicas. 
+Asigne un usuario a una pestaña y podrá comprobar fácilmente su progreso. 
+La desventaja es que este método funciona siempre que tenga un usuario por tarjeta.
+Por supuesto, también puede invitar a varios usuarios a la misma pestaña. 
+Esto es especialmente útil si tiene varios miembros del equipo trabajando en tareas comunes.
